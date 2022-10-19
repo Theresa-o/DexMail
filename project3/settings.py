@@ -25,9 +25,9 @@ SECRET_KEY = '05$4$3aew(8ywondz$g!k4m779pbvn9)euj0zp7-ae*x@4pxr+'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://dexmail-production.up.railway.app/login']
+ALLOWED_HOSTS = ['*']
 
-CSRF_TRUSTED_ORIGINS = ['https://dexmail-production.up.railway.app/login']
+CSRF_TRUSTED_ORIGINS = ['https://tioart-production.up.railway.app']
 
 
 
