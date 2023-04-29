@@ -1,6 +1,6 @@
 # DexMail
 
-A front-end for a single-page email client app, using Vanilla JavaScript. Users can send, receive, reply and archive emails through the app, which makes API calls to a Django back-end in order to send and receive 'emails', which are stored in an SQLite database.
+A front-end for a single-page email client app, using Vanilla JavaScript. Users can send, receive, reply and archive emails through the app, which makes API calls to a Django back-end in order to send and receive 'emails', which are stored in an SQLite database
 
 ## Demo
 
